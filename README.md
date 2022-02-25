@@ -47,30 +47,35 @@
 
 ![image-20220225184444017](https://gitee.com/Kevinello/pic/raw/master/20220225-184444.png)
 
-## 已支持mod
+## 服务器已支持的功能性mod
 
-| Mod名 | 说明 | 客户端 | 服务端 |
-| ----- | ---- | ------ | ------ |
-|       |      | √      | ×      |
-|       |      |        |        |
-|       |      |        |        |
-|       |      |        |        |
-|       |      |        |        |
-|       |      |        |        |
-|       |      |        |        |
-|       |      |        |        |
-|       |      |        |        |
+| Mod名              | 说明                             | 客户端 | 服务端 |
+| ------------------ | -------------------------------- | ------ | ------ |
+| BlueMap            | 实时web端地图                    | ×      | √      |
+| diggusmaximus      | 连锁挖掘                         | √      | √      |
+| essential_commands | 常用便捷命令集合                 | ×      | √      |
+| ferritecore        | mc内存优化                       | √      | √      |
+| IronChests         | 更多箱子                         | √      | √      |
+| krypton            | mc网络优化                       | √      | √      |
+| Lithium            | mc全能优化(物理引擎，方块tick等) | ×      | √      |
+| LuckPerms          | 命令权限管理系统                 | ×      | √      |
+| neutral-animals    | 更逼真的动物行为                 | ×      | √      |
+| phosphor           | mc光照引擎优化                   | ×      | √      |
+| plasmovoice        | mc内置语音系统                   | √      | √      |
+| tabtps             | 服务器延迟，吞吐量显示           | ×      | √      |
+| wraith-waystones   | 更优秀的传送系统（传送碑）       | √      | √      |
+| XaerosWorldMap     | 世界地图（已禁用地图传送）       | √      | √      |
 
 
 
 ## 注意事项
 
+1. 多上线，多上线，多上线
 1. 禁用高频红石，服务器资源有限
-2. 
 
 ## Q&A
 
 - 如何在arm架构的系统上运行客户端
 
-  见另一篇文档[Run minecraft on mac m1 pro]()
+  见另一篇文档[Run minecraft on mac m1 pro](./Run minecraft on mac m1 pro.md)
 
