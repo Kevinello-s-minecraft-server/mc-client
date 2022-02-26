@@ -47,26 +47,60 @@
 
 ![image-20220225184444017](https://gitee.com/Kevinello/pic/raw/master/20220225-184444.png)
 
-## 服务器已支持的功能性mod
+## mod统计
 
-| Mod名              | 说明                             | 客户端 | 服务端 |
-| ------------------ | -------------------------------- | ------ | ------ |
-| BlueMap            | 实时web端地图                    | ×      | √      |
-| diggusmaximus      | 连锁挖掘                         | √      | √      |
-| essential_commands | 常用便捷命令集合                 | ×      | √      |
-| ferritecore        | mc内存优化                       | √      | √      |
-| IronChests         | 更多箱子                         | √      | √      |
-| krypton            | mc网络优化                       | √      | √      |
-| Lithium            | mc全能优化(物理引擎，方块tick等) | ×      | √      |
-| LuckPerms          | 命令权限管理系统                 | ×      | √      |
-| neutral-animals    | 更逼真的动物行为                 | ×      | √      |
-| phosphor           | mc光照引擎优化                   | ×      | √      |
-| plasmovoice        | mc内置语音系统                   | √      | √      |
-| tabtps             | 服务器延迟，吞吐量显示           | ×      | √      |
-| wraith-waystones   | 更优秀的传送系统（传送碑）       | √      | √      |
-| XaerosWorldMap     | 世界地图（已禁用地图传送）       | √      | √      |
+**不包含依赖形mod（各种fabric API等）**
 
+### 服务器已支持的功能性mod
 
+| Mod名            | 说明                       | 客户端 | 服务端 |
+| ---------------- | -------------------------- | ------ | ------ |
+| wraith-waystones | 更优秀的传送系统（传送碑） | ✅      | ✅      |
+| XaerosWorldMap   | 世界地图（已禁用地图传送） | ✅      | ✅      |
+| The Wild Mod     | 1.19内容前瞻               | ✅      | ✅      |
+| Campanion        | 户外主题拓展               | ✅      | ✅      |
+| VanitySlots      | 盔甲隐藏                   | ✅      | ✅      |
+| Promenade        | 生物群系拓展和自然建筑拓展 | ✅      | ✅      |
+| Plasmovoice      | mc内置语音系统             | ✅      | ✅      |
+| diggusmaximus    | 连锁挖掘                   | ✅      | ✅      |
+| ferritecore      | mc内存优化                 | ✅      | ✅      |
+| IronChests       | 更多箱子                   | ✅      | ✅      |
+| krypton          | mc网络优化                 | ✅      | ✅      |
+
+### 纯服务端mod
+
+客户端必须安装的mod（不装可能会出现进不了服务器/区块加载错误等情况）
+
+| Mod名              | 说明                                 | 客户端 | 服务端 |
+| ------------------ | ------------------------------------ | ------ | ------ |
+| BlueMap            | 实时web端地图                        | ❌      | ✅      |
+| essential_commands | 常用便捷命令集合                     | ❌      | ✅      |
+| Lithium            | mc全能优化(物理引擎，方块tick等)     | ❌      | ✅      |
+| LuckPerms          | 命令权限管理系统                     | ❌      | ✅      |
+| neutral-animals    | 更逼真的动物行为                     | ❌      | ✅      |
+| phosphor           | mc光照引擎优化                       | ❌      | ✅      |
+| tabtps             | 服务器延迟，吞吐量显示               | ❌      | ✅      |
+| DungeonsArise      | 地下城主题生物群系拓展和自然建筑拓展 | ❌      | ✅      |
+
+### 纯客户端mod
+
+可自行选择安装的mod（不装也可以正常游玩服务器）
+
+| Mod名                  | 说明                               | 客户端 | 服务端 |
+| ---------------------- | ---------------------------------- | ------ | ------ |
+| Better recipe book     | 更好的合成配方                     | ✅      | ❌      |
+| continuity             | 无缝玻璃                           | ✅      | ❌      |
+| Iris                   | 新时代光影mod                      | ✅      | ❌      |
+| Sodium                 | 新时代渲染引擎，客户端优化         | ✅      | ❌      |
+| Indium                 | Sodium附加包(Fabric Rendering API) | ✅      | ❌      |
+| InventoryProfilesNext  | 背包整理                           | ✅      | ❌      |
+| lambdynamiclights      | 动态光源优化                       | ✅      | ❌      |
+| mod menu               | mod管理                            | ✅      | ❌      |
+| pinglist               | 实时显示ping值                     | ✅      | ❌      |
+| Sodium Extra           | 视频设置控制面板优化               | ✅      | ❌      |
+| Reese's Sodium Options | 视频设置控制面板优化               | ✅      | ❌      |
+| Starlight              | 光照引擎优化（与Phosphor不兼容）   | ✅      | ❌      |
+| Xaeros_Minimap         | 地图面板显示                       | ✅      | ❌      |
 
 ## 注意事项
 
