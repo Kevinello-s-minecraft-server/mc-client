@@ -77,8 +77,8 @@
 | essential_commands | 常用便捷命令集合                     | ❌      | ✅      |
 | Lithium            | mc全能优化(物理引擎，方块tick等)     | ❌      | ✅      |
 | LuckPerms          | 命令权限管理系统                     | ❌      | ✅      |
-| neutral-animals    | 更逼真的动物行为                     | ❌      | ✅      |
-| phosphor           | mc光照引擎优化                       | ❌      | ✅      |
+| neutral animals    | 更逼真的动物行为                     | ❌      | ✅      |
+| Starlight          | 光照引擎优化                         | ❌      | ✅      |
 | tabtps             | 服务器延迟，吞吐量显示               | ❌      | ✅      |
 | DungeonsArise      | 地下城主题生物群系拓展和自然建筑拓展 | ❌      | ✅      |
 
@@ -99,7 +99,6 @@
 | pinglist               | 实时显示ping值                     | ✅      | ❌      |
 | Sodium Extra           | 视频设置控制面板优化               | ✅      | ❌      |
 | Reese's Sodium Options | 视频设置控制面板优化               | ✅      | ❌      |
-| Starlight              | 光照引擎优化（与Phosphor不兼容）   | ✅      | ❌      |
 | Xaeros_Minimap         | 地图面板显示                       | ✅      | ❌      |
 
 ## 注意事项
