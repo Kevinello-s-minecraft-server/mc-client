@@ -110,7 +110,7 @@
 
 ## Q&A
 
-- 如何在arm架构的系统上运行客户端
+- 如何在arm架构的系统上运行客户端(如MacBook Pro M1)
 
-  见另一篇文档[Run minecraft on mac m1 pro](./Run minecraft on mac m1 pro.md)
+  见另一篇文档[Run minecraft on mac m1 pro](./Run minecraft on mac pro m1.md)
 
