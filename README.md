@@ -13,7 +13,7 @@
 
 ## 下载整合包以及安装
 
-目前我们推荐使用的是HMCL启动器，方便我们配置第三方登录验证以及兼容各架构设备
+目前我们推荐使用的是[HMCL启动器](https://github.com/huanghongxun/HMCL/releases)，方便我们配置第三方登录验证以及兼容各架构设备
 
 ### 首次安装整合包
 
@@ -70,19 +70,20 @@
 
 客户端必须安装的mod（不装可能会出现进不了服务器/区块加载错误等情况）
 
-| Mod名            | 说明                       | 客户端 | 服务端 |
-| ---------------- | -------------------------- | ------ | ------ |
-| wraith-waystones | 更优秀的传送系统（传送碑） | ✅      | ✅      |
-| XaerosWorldMap   | 世界地图（已禁用地图传送） | ✅      | ✅      |
-| The Wild Mod     | 1.19内容前瞻               | ✅      | ✅      |
-| Campanion        | 户外主题拓展               | ✅      | ✅      |
-| VanitySlots      | 盔甲隐藏                   | ✅      | ✅      |
-| Promenade        | 生物群系拓展和自然建筑拓展 | ✅      | ✅      |
-| Plasmovoice      | mc内置语音系统             | ✅      | ✅      |
-| diggusmaximus    | 连锁挖掘                   | ✅      | ✅      |
-| ferritecore      | mc内存优化                 | ✅      | ✅      |
-| IronChests       | 更多箱子                   | ✅      | ✅      |
-| krypton          | mc网络优化                 | ✅      | ✅      |
+| Mod名               | 说明                       | 客户端 | 服务端 |
+| ------------------- | -------------------------- | ------ | ------ |
+| wraith-waystones    | 更优秀的传送系统（传送碑） | ✅      | ✅      |
+| XaerosWorldMap      | 世界地图（已禁用地图传送） | ✅      | ✅      |
+| The Wild Mod        | 1.19内容前瞻               | ✅      | ✅      |
+| Campanion           | 户外主题拓展               | ✅      | ✅      |
+| VanitySlots         | 盔甲隐藏                   | ✅      | ✅      |
+| Promenade           | 生物群系拓展和自然建筑拓展 | ✅      | ✅      |
+| Plasmovoice         | mc内置语音系统             | ✅      | ✅      |
+| diggusmaximus       | 连锁挖掘                   | ✅      | ✅      |
+| ferritecore         | mc内存优化                 | ✅      | ✅      |
+| IronChests          | 更多箱子                   | ✅      | ✅      |
+| krypton             | mc网络优化                 | ✅      | ✅      |
+| Better Animals Plus | 动物拓展                   | ✅      | ✅      |
 
 ### 纯客户端mod
 
@@ -90,7 +91,7 @@
 
 | Mod名                  | 说明                               | 客户端 | 服务端 |
 | ---------------------- | ---------------------------------- | ------ | ------ |
-| Better recipe book     | 更好的合成配方                     | ✅      | ❌      |
+| Roughly Enough Items   | REI 更好的合成菜单                 | ✅      | ❌      |
 | continuity             | 无缝玻璃                           | ✅      | ❌      |
 | Iris                   | 新时代光影mod                      | ✅      | ❌      |
 | Sodium                 | 新时代渲染引擎，客户端优化         | ✅      | ❌      |
@@ -110,7 +111,7 @@
 
 ## Q&A
 
-- 如何在arm架构的系统上运行客户端(如MacBook Pro M1)
+- 如何在arm架构的系统上运行客户端
 
-  见另一篇文档[Run minecraft on mac m1 pro](./Run minecraft on mac pro m1.md)
+  见另一篇文档[Run minecraft on mac m1 pro](./Run minecraft on mac m1 pro.md)
 
