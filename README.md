@@ -1,6 +1,6 @@
 # Kevinello's Minecraft Server Guide
 
-![2022-02-11_00.15.22 中](https://gitee.com/Kevinello/pic/raw/master/img/20220211111722.png)
+![2022-02-11_00.15.22 中](/Users/kevinello/Downloads/20220211111722.png)
 
 自建的一个小型服务器（目前是白嫖服务器用爱发电的形态)
 
@@ -51,6 +51,14 @@
 
 **不包含依赖形mod（各种fabric API等）**
 
+### 整合包
+
+#### [Medieval Minecraft [FABRIC] - 1.18.1](https://www.curseforge.com/minecraft/modpacks/medieval-minecraft-fabric/files/3663125)
+
+大型中世纪RPG MC整合包
+
+##### [ModList](https://www.curseforge.com/minecraft/modpacks/medieval-minecraft-new/relations/dependencies)(太多了这里就不列了)
+
 ### 纯服务端mod
 
 无需客户端安装的mod
@@ -62,7 +70,7 @@
 | Lithium            | mc全能优化(物理引擎，方块tick等)     | ❌      | ✅      |
 | LuckPerms          | 命令权限管理系统                     | ❌      | ✅      |
 | neutral animals    | 更逼真的动物行为                     | ❌      | ✅      |
-| Starlight          | 光照引擎优化                         | ❌      | ✅      |
+| Phospher           | 光照引擎优化                         | ❌      | ✅      |
 | tabtps             | 服务器延迟，吞吐量显示               | ❌      | ✅      |
 | DungeonsArise      | 地下城主题生物群系拓展和自然建筑拓展 | ❌      | ✅      |
 
@@ -89,20 +97,21 @@
 
 可自行选择安装的mod（不装也可以正常游玩服务器）
 
-| Mod名                  | 说明                               | 客户端 | 服务端 |
-| ---------------------- | ---------------------------------- | ------ | ------ |
-| Roughly Enough Items   | REI 更好的合成菜单                 | ✅      | ❌      |
-| continuity             | 无缝玻璃                           | ✅      | ❌      |
-| Iris                   | 新时代光影mod                      | ✅      | ❌      |
-| Sodium                 | 新时代渲染引擎，客户端优化         | ✅      | ❌      |
-| Indium                 | Sodium附加包(Fabric Rendering API) | ✅      | ❌      |
-| InventoryProfilesNext  | 背包整理                           | ✅      | ❌      |
-| lambdynamiclights      | 动态光源优化                       | ✅      | ❌      |
-| mod menu               | mod管理                            | ✅      | ❌      |
-| pinglist               | 实时显示ping值                     | ✅      | ❌      |
-| Sodium Extra           | 视频设置控制面板优化               | ✅      | ❌      |
-| Reese's Sodium Options | 视频设置控制面板优化               | ✅      | ❌      |
-| Xaeros_Minimap         | 地图面板显示                       | ✅      | ❌      |
+| Mod名                        | 说明                               | 客户端 | 服务端 |
+| ---------------------------- | ---------------------------------- | ------ | ------ |
+| Roughly Enough Items         | REI 更好的合成菜单                 | ✅      | ❌      |
+| continuity                   | 无缝玻璃                           | ✅      | ❌      |
+| Iris                         | 新时代光影mod                      | ✅      | ❌      |
+| Sodium                       | 新时代渲染引擎，客户端优化         | ✅      | ❌      |
+| Indium                       | Sodium附加包(Fabric Rendering API) | ✅      | ❌      |
+| InventoryProfilesNext        | 背包整理                           | ✅      | ❌      |
+| lambdynamiclights            | 动态光源优化                       | ✅      | ❌      |
+| mod menu                     | mod管理                            | ✅      | ❌      |
+| pinglist                     | 实时显示ping值                     | ✅      | ❌      |
+| Sodium Extra                 | 视频设置控制面板优化               | ✅      | ❌      |
+| Reese's Sodium Options       | 视频设置控制面板优化               | ✅      | ❌      |
+| Xaeros_Minimap               | 地图面板显示                       | ✅      | ❌      |
+| ToroHealth Damage Indicators | 伤害显示                           | ✅      | ❌      |
 
 ## 注意事项
 
