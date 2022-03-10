@@ -1,6 +1,6 @@
 # Kevinello's Minecraft Server Guide
 
-![2022-02-11_00.15.22 中](/Users/kevinello/Downloads/20220211111722.png)
+![2022-02-11_00.15.22 中](https://gitee.com/Kevinello/pic/raw/master/20220310-221614.png)
 
 自建的一个小型服务器（目前是白嫖服务器用爱发电的形态)
 
@@ -122,5 +122,4 @@
 
 - 如何在arm架构的系统上运行客户端
 
-  见另一篇文档[Run minecraft on mac m1 pro](./Run minecraft on mac m1 pro.md)
-
+  见另一篇文档[Run minecraft on mac m1 pro](
