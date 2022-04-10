@@ -1,6 +1,6 @@
 # Kevinello's Minecraft Server Guide
 
-![2022-02-11_00.15.22 中](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220310-221614.png)
+![mc-server-1](http://kevinello-1302687393.file.myqcloud.com/picgo/2022/04/10/mc-server-1-0fdacc.png)
 
 自建的一个小型服务器（目前是白嫖服务器用爱发电的形态)
 
@@ -13,7 +13,13 @@
 
 ## 下载整合包以及安装
 
-目前我们推荐使用的是[HMCL启动器](https://github.com/huanghongxun/HMCL/releases)，方便我们配置第三方登录验证以及兼容各架构设备
+整合包维护在client仓库的release中：[client release](https://github.com/Kevinello-s-minecraft-server/ClientPack/releases)
+
+![image-20220410234559606](http://kevinello-1302687393.file.myqcloud.com/picgo/2022/04/10/image-20220410234559606-1eb959.png)
+
+点击`x.x.x.zip`即可下载
+
+目前整合包内使用的是[HMCL启动器](https://github.com/huanghongxun/HMCL/releases)，方便我们配置第三方登录验证以及兼容各架构设备，如有个人使用习惯可使用其它启动器
 
 ### 首次安装整合包
 
@@ -92,6 +98,7 @@
 | IronChests          | 更多箱子                   | ✅      | ✅      |
 | krypton             | mc网络优化                 | ✅      | ✅      |
 | Better Animals Plus | 动物拓展                   | ✅      | ✅      |
+| Create              | 机械动力                   | ✅      | ✅      |
 
 ### 纯客户端mod
 
@@ -115,11 +122,11 @@
 
 ## 注意事项
 
-1. 多上线
+1. 多上线plz
 1. 禁用高频红石，服务器资源有限
 
 ## Q&A
 
 - 如何在arm架构的系统上运行客户端
 
-  见另一篇文档[Run minecraft on mac m1 pro](
+  见另一篇文档[Run minecraft on mac m1 pro](https://kevinello.ltd/2022/04/11/Run-minecraft-on-mac-pro-m1/)
