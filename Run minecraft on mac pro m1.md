@@ -12,13 +12,13 @@
 
 部分图形渲染相关mod会出现无法渲染文字 / 图像的情况
 
-![image-20220226230146964](https://gitee.com/Kevinello/pic/raw/master/20220226-230148.png)
+![image-20220226230146964](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220226-230148.png)
 
 ## 光影支持情况
 
 m1下仅支持部分光影（部分光影会因为Metal API产生Error）
 
-欣赏经典：![image-20220226224444049](https://gitee.com/Kevinello/pic/raw/master/20220226-224445.png)
+欣赏经典：![image-20220226224444049](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220226-224445.png)
 
 ### 经过测试已支持的光影：
 
@@ -26,6 +26,6 @@ https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders
 
 ### 推荐使用
 
-![image-20220218031258705](https://gitee.com/Kevinello/pic/raw/master/20220218-031259.png)
+![image-20220218031258705](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220218-031259.png)
 
 注意下载`v1.20`版本的 `Slidur's Shaders`，高版本的在m1上有性能问题

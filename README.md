@@ -1,6 +1,6 @@
 # Kevinello's Minecraft Server Guide
 
-![2022-02-11_00.15.22 中](https://gitee.com/Kevinello/pic/raw/master/20220310-221614.png)
+![2022-02-11_00.15.22 中](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220310-221614.png)
 
 自建的一个小型服务器（目前是白嫖服务器用爱发电的形态)
 
@@ -23,13 +23,13 @@
 
 下载好新整合包后，在HMCL的【游戏】中找到自己的游戏实例，点击进入游戏管理
 
-![image-20220219142827131](https://gitee.com/Kevinello/pic/raw/master/20220219-142828.png)
+![image-20220219142827131](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220219-142828.png)
 
 点击更新整合包，拖入新整合包中的modpack.zip，点击安装即可完成更新
 
-![image-20220225185456319](https://gitee.com/Kevinello/pic/raw/master/20220225-185457.png)
+![image-20220225185456319](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220225-185457.png)
 
-![image-20220225185625091](https://gitee.com/Kevinello/pic/raw/master/20220225-185625.png)
+![image-20220225185625091](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220225-185625.png)
 
 ### littleSkin第三方验证
 
@@ -37,15 +37,15 @@
 
 点击进入账户页面
 
-![image-20220225184157344](https://gitee.com/Kevinello/pic/raw/master/20220225-184158.png)
+![image-20220225184157344](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220225-184158.png)
 
 点击添加认证服务器
 
-![image-20220225184247260](https://gitee.com/Kevinello/pic/raw/master/20220225-184248.png)
+![image-20220225184247260](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220225-184248.png)
 
 输入认证服务器地址： https://littleskin.cn/api/yggdrasil，点击下一步 -> 完成即可
 
-![image-20220225184444017](https://gitee.com/Kevinello/pic/raw/master/20220225-184444.png)
+![image-20220225184444017](https://kevinello-1302687393.cos.ap-hongkong.myqcloud.com/20220225-184444.png)
 
 ## mod统计
 
