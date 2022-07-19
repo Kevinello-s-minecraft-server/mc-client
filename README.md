@@ -18,7 +18,7 @@ tags:
 
 # Kevinello's Minecraft Server Guide
 
-![mc-server-1](http://kevinello-1302687393.file.myqcloud.com/picgo/2022/04/10/mc-server-1-0fdacc.png)
+![mc-server-1](https://kevinello-1302687393.file.myqcloud.com/picgo/2022/04/10/mc-server-1-0fdacc.png)
 
 自建的一个小型服务器（目前是白嫖服务器用爱发电的形态)
 QQ群号: 855073232
