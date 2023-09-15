@@ -59,7 +59,7 @@
 
 ## mod统计
 
-见我的[统计页面](https://kevinello.notion.site/e220b94930214646868e5379481cb10e?v=e8f35b34e55f4d63bc6c2af070ff40d6&pvs=4)
+见我的[mod统计页面](https://www.notion.so/kevinello/e220b94930214646868e5379481cb10e?v=6040f972867f49e797a5e2adf68967cb&pvs=4)
 
 ## 注意事项
 
