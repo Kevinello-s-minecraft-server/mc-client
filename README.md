@@ -1,27 +1,10 @@
----
-title: Kevinello的minecraft服务器
-sticky: 1
-toc: true
-katex: true
-categories: 文档
-date: 2022-04-11 00:59:10
-top_img:
-password:
-cover: http://kevinello-1302687393.file.myqcloud.com/picgo/2022/04/10/mc-server-1-0fdacc.png
-summary:
-tags:
-    - 服务器
-    - Minecraft
-    - mod
-    - 游戏
----
-
 # Kevinello's Minecraft Server Guide
 
 ![mc-server-1](https://kevinello-1302687393.file.myqcloud.com/picgo/2022/04/10/mc-server-1-0fdacc.png)
 
 自建的一个小型服务器（目前是白嫖服务器用爱发电的形态)
-QQ群号: 855073232
+服主邮箱: 1051360477@qq.com
+有意愿来我的服务器游玩请邮件上述邮箱
 
 ## 依赖安装
 
