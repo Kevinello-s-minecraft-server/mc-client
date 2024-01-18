@@ -4,30 +4,29 @@
 
 ![mc-server-1](https://kevinello-1302687393.file.myqcloud.com/picgo/2023/09/15/202309151230789-d56879.png)
 
-自建的一个小型服务器(目前是白嫖服务器用爱发电的形态)
-服主邮箱: 1051360477@qq.com
+自建的一个小型服务器，服主邮箱: 1051360477@qq.com
 有意愿来我的服务器游玩请邮件至上述邮箱联系服主
 
 ## 依赖安装
 
-- **HMCL**启动器依赖的 [`zulu jdk fx 11`](https://www.azul.com/downloads/?version=java-11-lts&package=jdk-fx)(高版本jdk在HMCL上有bug，新版本HMCL会自己尝试安装jdk fx)
-- **minecraft 1.20**依赖的[`zulu jdk 19`](https://www.azul.com/downloads/?version=java-19-lts&package=jdk)，java 17+就行，高版本优化好些
-
-注意对应上自己的系统和架构
-
+- [**HMCL**](https://github.com/HMCL-dev/HMCL/releases/tag/release-3.5.5) mc 启动器，windows、mac、linux通用，windows下可直接下载exe文件，mac、linux下下载jar文件，使用`java -jar HMCL-xxx.jar`运行
+  ![alt text](https://kevinello-1302687393.file.myqcloud.com/picgo/2024/01/18/202401181721261-e79c34.png)
+  如有个人使用习惯可使用其它启动器（PCL2，MultiMC等）
+- **minecraft 1.20**依赖的[`zulu jdk 21`](https://www.azul.com/downloads/?version=java-21-lts&package=jdk-fx#zulu)，java 17+就行，高版本优化好些；注意选择系统和架构（大部分人都是x86-64，如不清晰可搜索一下自己的CPU型号）
+  ![alt text](https://kevinello-1302687393.file.myqcloud.com/picgo/2024/01/18/202401181727227-c594a8.png)
+  Nice to know: 选择 JDK FX 是因为启动HMCL需要FX库，这样一个JAVA版本解决
+  
 ## 下载整合包以及安装
 
-整合包维护在client仓库的release中：[client release](https://github.com/Kevinello-s-minecraft-server/ClientPack/releases)
+整合包维护在client仓库的release中：[client release](https://github.com/Kevinello-s-minecraft-server/ClientPack/releases)，一般找最新的release下载即可（有可能是pre release）
 
 ![image-20220410234559606](https://kevinello-1302687393.file.myqcloud.com/picgo/2023/09/15/202309151210485-9c07e7.png)
 
 点击`vx.x.x.zip`即可下载
 
-目前整合包内使用的是[HMCL启动器](https://github.com/huanghongxun/HMCL/releases)，方便我们配置第三方登录验证以及兼容各架构设备，如有个人使用习惯可使用其它启动器
-
 ### 首次安装整合包
 
-使用整合包内自带的启动器启动，启动时会自动安装整合包
+直接将整合包（.zip文件）拖入HMCL界面中即可自动安装
 
 ### 后续更新整合包
 
@@ -57,14 +56,15 @@
 
 ![image-20230915123406022](https://kevinello-1302687393.file.myqcloud.com/picgo/2023/09/15/image-20230915123406022-265992.png)
 
-## mod统计
+## 整合包概述
 
-见我的[mod统计页面](https://www.notion.so/kevinello/e220b94930214646868e5379481cb10e?v=6040f972867f49e797a5e2adf68967cb&pvs=4)
+版本介绍：https://kevinello.notion.site/v3-0-0-f4b111fcd96942368a22f760cc01416d?pvs=4
+mod列表：https://kevinello.notion.site/e220b94930214646868e5379481cb10e?v=0c4f1a074e3e4d41aa68cf54eb08a8a1
 
 ## 注意事项
 
-1. 多上线plz
-1. 禁用高频红石，服务器资源有限
+1. 多上线🙃
+2. 禁用高频红石，服务器资源有限
 
 ## Q&A
 
